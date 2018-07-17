@@ -18,7 +18,6 @@ public class TestServlets extends HttpServlet {
 			throws ServletException, IOException {
 		// TODO Auto-generated method stub
 		System.out.println("Changes From First User..!");
-		System.out.println("Changes From Second User");
 	}
 
 	protected void doPost(HttpServletRequest request, HttpServletResponse response)
