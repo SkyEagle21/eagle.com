@@ -18,6 +18,7 @@ public class TestServlets extends HttpServlet {
 			throws ServletException, IOException {
 		// TODO Auto-generated method stub
 		System.out.println("Get Method is Invoked..!");
+		System.out.println("From Second User");
 	}
 
 	protected void doPost(HttpServletRequest request, HttpServletResponse response)
